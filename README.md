@@ -17,6 +17,7 @@ python Tomboy2Evernote.py -i ~/.local/share/tomboy -o ~/Desktop
 ## Tested with:
  - Python 2.7
  - Ubuntu 14.04
+ - Python 3.10.4 on Windows 10 1809 LTSC
  
 ## Why this tool?
 Although Tomboy has a great export to html functionality there are two issues with this
